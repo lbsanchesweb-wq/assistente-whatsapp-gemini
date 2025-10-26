@@ -1,0 +1,5 @@
+{
+  "name": "Araras Impressão AI Assistant",
+  "description": "An autonomous sales and support dashboard for a printing company, powered by AI to interact with customers via WhatsApp. It includes product catalog management and business rule configuration.",
+  "requestFramePermissions": []
+}
